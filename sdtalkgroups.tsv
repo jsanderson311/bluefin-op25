@@ -1,0 +1,290 @@
+208	Police - Northern Dispatch 1
+272	Police - Northern Dispatch 2
+432	Police - Tac 1
+528	Police - Tac 2
+592	Police - Tac 3
+688	Police - Tac 4
+752	Police - Tac 5
+848	Police - Tac 6
+912	Police - Tac 7
+1008	Police - City Tac 1
+1072	Police - City Tac 2 Gangs
+1104	Police - City Tac 3 Gangs
+1296	Police - Southern Dispatch 1
+1360	Police - Southern Dispatch 2
+1456	Police - Eastern Dispatch 1
+1520	Police - Eastern Dispatch 2
+1616	Police - Western Dispatch 1
+1680	Police - Western Dispatch 2
+1776	Police - Central Dispatch 1
+1840	Police - Central Dispatch 2
+1936	Police - Northeast Dispatch 1
+2000	Police - Northeast Dispatch 2
+2096	Police - Southeast Dispatch 1
+2160	Police - Southeast Dispatch 2
+2256	Police - MidCity Dispatch 1
+2320	Police - MidCity Dispatch 2
+2416	Police - North City West Dispatch 1 Future Use
+2480	Police - North City West Dispatch 2
+2576	Police - SWAT 1
+2608	Police - SWAT 2
+2736	Police - Narcotics 1
+2800	Police - Narcotics 2
+2896	Police - Narcotics 3
+2960	Mutual Aid - Mutual Aid 10 Fire 7O
+2992	Mutual Aid - Mutual Aid 20 Fire 8O
+3024	Mutual Aid - Mutual Aid 30 Fire 9O
+3056	Police - Police Patch
+3216	Police - CHP Calling
+3280	Police - SDSO Calling
+3344	Police - Other Calling
+3376	Police - Border Patrol Calling
+3408	Police - Border 1
+3440	Police - Border 2
+3472	Police - Border 3
+3568	Police - Internal Affairs 1
+3600	Police - Internal Affairs 2
+3696	Police - Criminal Intelligence Unit
+3792	Police - SIU 1
+3824	Police - SIU 2
+3888	Police - Air Tac 1 ABLE
+3920	Police - Air Tac 2
+3984	Police - Training Police Academy
+4016	Police - Training Police Academy
+4048	Police - Training Police Academy
+4080	Police - Narcotics Task Force
+4176	Police - Vice 1
+4208	Police - Vice 2
+4272	Police - Emergency Negotiating Team
+4336	Police - Gang Task Force 1
+4368	Police - Gang Task Force 2
+4432	Police - Robbery 1
+4464	Police - Robbery 2
+4496	Police - Inquiry 2
+4560	Police - Parking Enforcement Tac 1
+4592	Police - Parking Enforcement Tac 2
+4624	Police - Parking Enforcement Tac 3
+4688	FireEMS - Dispatch Simulcast
+4752	Lifeguard - Dispatch 1
+5008	FireEMS - Dispatch
+5136	FireEMS - Fire Emergency
+5168	FireEMS - Administration
+5232	FireEMS - System Status Controller ALS Medic Dispatch
+5328	FireEMS - Command 9D  Metro Command
+5392	FireEMS - Tac 9E  Metro Primary Tac
+5488	FireEMS - Command 9G  Citywide  San Pasqual Command
+5552	FireEMS - Tac 7M
+5648	FireEMS - Tac 7K
+5712	FireEMS - Tac 8J  Battalion 1 Training
+5808	FireEMS - Tac 7L
+5872	FireEMS - Tac 9B  North of I8 Poway
+5968	FireEMS - Command 9A  North of I8 Poway
+6032	FireEMS - Tac 9C  North of I8 Poway
+6128	FireEMS - Tac 9H  Citywide  San Pasqual Primary Tac
+6352	FireEMS - Rapid Intervention Crew 8N
+6448	FireEMS - Tac 7I  Traffic Accidents  Grass Primary Tac
+6512	FireEMS - Command 7H  Traffic Accidents  Grass Command
+6608	FireEMS - Tac 7J  Traffic Accidents  Grass Secondary Tac
+6768	FireEMS - Tac 8B  South Bay
+6832	FireEMS - Command 8A  South Bay
+6928	FireEMS - Tac 8C  South Bay
+6992	FireEMS - Tac 9J  Battalion 3 Training
+7088	FireEMS - Tac 8H  E of I805  S of I8
+7152	FireEMS - Command 8G  E of I805  S of I8
+7248	FireEMS - Tac 8I  E of I805  S of I8
+7312	FireEMS - Tac 8K  Battalion 2 Training
+7408	FireEMS - Tac 7F  Medical Primary Tac
+7472	FireEMS - Command 7E  Medical Command
+7568	FireEMS - Tac 7G  Medical Secondary Tac
+7632	FireEMS - Tac 8L  Battalion 4 Training
+7728	FireEMS - Tac 8E  West of I805  South of I8
+7792	FireEMS - Command 8D  West of I805  South of I8
+7888	FireEMS - Tac 8F  West of I805  South of I8
+7952	FireEMS - Tac 8M  Battalion 6 Training
+8112	FireEMS - Tac 9N
+8208	FireEMS - BLS Medic Dispatch
+8272	FireEMS - Tac 9F  Metro Secondary Tac
+8432	FireEMS - Tac 7N
+8528	FireEMS - Tac 9I  Citywide  San Pasqual Secondary Tac
+8592	FireEMS - Tac 9K  Battalion 5 Training
+8688	FireEMS - Tac 9L  Battalion 7 Training
+8752	FireEMS - Tac 9M
+8816	FireEMS - Battalion 1 Training
+8848	FireEMS - Battalion 2 Training
+8880	FireEMS - Battalion 3 Training
+8912	FireEMS - Battalion 4 Training
+8944	FireEMS - Battalion 5 Training
+8976	FireEMS - Battalion 6 Training
+9008	FireEMS - Battalion 7 Training
+9040	FireEMS - Open Channel
+9072	FireEMS - NTC Training
+9104	FireEMS - NTC Training
+9136	FireEMS - Special Events
+9168	FireEMS - Special Events
+9200	FireEMS - Special Events
+9232	FireEMS - Special Events
+9360	FireEMS - RuralMetro General Dispatch
+9392	City Services - Adult Protective Services
+9424	FireEMS - RuralMetro General Tac 1
+9456	FireEMS - RuralMetro General Tac 2
+9488	FireEMS - RuralMetro General Tac 3
+9520	FireEMS - RuralMetro General Tac 4
+9808	San Diego Unified School District - Police Administration
+9968	San Diego Unified School District - Police Dispatch
+10000	San Diego Unified School District - Transportation A
+10032	San Diego Unified School District - Transportation A 84 passenger Buses
+10128	San Diego Unified School District - Transportation C 48 Passenger Buses
+10192	San Diego Unified School District - Transportation D 48 Passenger Wheelchair Buses
+10352	San Diego Unified School District - Transportation
+10416	San Diego Unified School District - Maintenance
+10480	San Diego Unified School District - Security
+10672	San Diego Unified School District - Transportation  Info
+10864	San Diego Unified School District - Transportation EMERGENCY
+11056	San Diego Unified School District - Safety and Training
+11152	San Diego Unified School District - Maintenance
+11248	San Diego Unified School District - Police Tac 1
+11344	San Diego Unified School District - Police Tac 2
+11536	City Services - DYN Regroup for Lost or Stolen Radios
+12528	San Diego Community College District - Police Dispatch 1
+12560	San Diego Community College District - Police Dispatch 2
+12624	San Diego Community College District - Police Tactical 1
+12656	San Diego Community College District - Police Tactical 2
+12688	San Diego Community College District - Police Tactical 3
+13040	Police - Parking Enforcement Dispatch
+15568	Police - Events Tac 1
+15600	Police - Events Tac 2
+15632	Police - Events Tac 3
+15664	Police - Events Tac 4
+15696	Police - Events Tac 5
+15728	Police - Events Tac 6
+15760	Police - Events Tac 7
+15888	Police - Event Dispatch 1
+15920	Police - Event Dispatch 2
+16144	City Services - Communications  Electronics 1
+16176	City Services - Communications  Electronics 2
+16208	City Services - Communications  Electronics 3
+16240	City Services - Communications  Electronics 4
+19280	Lifeguard - Dispatch 2
+19312	Lifeguard - Dispatch 3
+19344	Lifeguard - Inquiry
+19408	Lifeguard - Tac 1
+19472	Lifeguard - Tac 2
+19536	Lifeguard - Tac 3
+19600	Lifeguard - Tac 4
+19664	Lifeguard - Tac 5
+19728	Lifeguard - Tac 6
+19792	Lifeguard - Tac 7
+19824	Lifeguard - Tac 8 
+19856	Lifeguard - River Command
+19920	Lifeguard - River Tac
+19984	Lifeguard - Admin
+20080	Lifeguard - Dispatch 2 Tac
+20112	Lifeguard - Dispatch 3 Tac
+20176	Lifeguard - Special 1
+20208	Lifeguard - Special 2
+20272	Lifeguard - Junior Guards Ops
+20304	Lifeguard - Junior Guards Tac
+20336	Lifeguard - Training 1
+20368	Lifeguard - Training 2
+20496	Parks and Recreation - Tactical 2  Penasquitos Black Mtn Otay Valley
+20528	Parks and Recreation - Tactical 3  Mission Trails Cowles Mtn
+20624	Parks and Recreation - Tactical 4  Mission Bay Park Shoreline Parks
+20720	Parks and Recreation - Tactical 5  Balboa Park Chollas Lake
+20752	City Services - Parks Beach Maintenance
+20784	City Services - Mount Hope Cemetery
+20816	Parks and Recreation - Tactical 1  Tecolote Cyn Marian Bear Mission Vly Preserve Rose Cyn
+20912	City Services - Station 38 Calling  Dispatch for Misc Public Works Depts
+20944	City Services - Public Works After Hours City Dispatch  Station 38 Evenings Nights Weekends
+20976	City Services - Water Dispatch
+21104	City Services - Water
+21136	City Services - Water
+21168	City Services - Water
+21200	City Services - Water
+21232	City Services - Water
+21264	City Services - Water
+21296	City Services - Water
+21328	City Services - Water
+21392	City Services - Water
+21488	City Services - Water
+21520	City Services - Water
+22416	City Services - Radio Shop
+22480	City Services - Public Works
+23184	City Services - Public Works
+23216	City Services - Maintenance
+23472	City Services - Maintenance
+23504	City Services - Public Works
+23536	City Services - Public Works  Storm Water
+23760	City Services - Wastewater  South Bay Water Reclamation Plant
+23856	City Services - Water 1E
+24080	City Services - Water 2D
+24144	City Services - Public Works Maintenance 2B
+24368	City Services - Public Works Maintenance 2C
+24624	City Services - Water  Alvarado Water Treatment Plant
+25104	Parks and Recreation - Park Rangers  Reservoir Lakes
+25168	Parks and Recreation - Park Rangers
+25680	FireEMS - UCSD Hospital
+25744	FireEMS - Sharp Hospital
+25808	FireEMS - Mercy Hospital
+25872	FireEMS - Scripps Memorial Hospital Chula Vista
+25936	FireEMS - Scripps Hospital La Jolla
+26000	FireEMS - Grossmont Hospital
+26064	FireEMS - Palomar Hospital
+27216	City Services - Building Inspection A
+27312	City Services - Building Inspection B
+27344	City Services - Building Inspection C
+27408	City Services - Building Inspection D
+27536	City Services - Code Enforcement 1A
+27568	City Services - Code Enforcement 1B
+27600	City Services - Code Enforcement 1C
+27664	City Services - Code Enforcement 1D
+28016	City Services - Public Works
+28048	City Services - Public Works
+32656	City Services - Land Fill 1 Miramar Landfill
+32688	City Services - Land Fill 2 Miramar Landfill
+33136	City Services - SDCCU Stadium Security
+46416	Police - Inquiry Encrypted
+46576	Police - Northern Tac Encrypted
+46608	Police - Northeast Tac Encrypted
+46640	Police - Eastern Tac Encrypted
+46672	Police - Southeast Tac Encrypted
+46704	Police - Central Tac Encrypted
+46736	Police - Western Tac Encrypted
+46768	Police - Southern Tac Encrypted
+46800	Police - Mid City Tac Encrypted
+46832	Police - Northwest Tac Encrypted
+48144	Police - Investigations Tac Calling
+48176	Police - INV Tac 1
+48208	Police - INV Tac 2
+48240	Police - INV Tac 3
+48272	Police - INV Tac 4
+48304	Police - INV Tac 5
+48336	Police - INV Tac 6
+48368	Police - INV Tac 7
+48400	Police - INV Tac 8
+48432	Police - INV Tac 9
+48464	Police - INV Tac 10
+48496	Police - INV Tac 11
+48528	Police - INV Tac 12
+48560	Police - INV Tac 13
+49200	Police - Gang Task Force 3D
+49232	Police - Gang Task Force 4D
+49264	Police - Gang Task Force 5D
+49296	Police - Gang Task Force 6D
+49360	Police - Narcotics 4D
+49392	Police - Narcotics 5D
+49424	Police - Narcotics 6D
+49456	Police - Narcotics 7D
+49488	Police - Narcotics 8D
+49520	Police - Narcotics Task Force 2D
+49648	Police - SWAT 2D
+49712	Police - Criminal Intelligence Unit 2D Encrypted
+49776	Police - Robbery 3D
+49808	Police - Robbery 4D
+49872	Police - Vice 3D
+49968	Police - Vice 4D
+49984	Police - INV Tac 14D
+50000	Police - INV Tac 15D
+50032	Police - INV Tac 16D
+50064	Police - INV Tac 17D
+50096	Police - INV Tac 18D
+50256	Police - INV Tac 23D
